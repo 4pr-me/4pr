@@ -1,4 +1,4 @@
-# Welcome to 4PR: 
+# Welcome to 4PR
 
 **Empowering developers to build and profit from collaborative startups.**
 

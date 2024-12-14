@@ -74,5 +74,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Stay Connected
 - **Website:** [Coming Soon]  
-- **Discord:** [Discord](https://discord.gg/ZNF7Gst7)
+- **Discord:** [Discord](https://discord.gg/vfX6KvTH7B)
 

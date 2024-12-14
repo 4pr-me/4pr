@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./docs/images/logo.png" alt="4PR Logo" width="350">
+</p>
+
 # Welcome to 4PR: Developer Collaboration Platform
 
 ## Mission

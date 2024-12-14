@@ -57,7 +57,7 @@ We welcome contributions from developers of all levels. Whether you're a seasone
 
 ## 📜 License
 
-[Your Organization Name] is open-source and available under the [MIT License](LICENSE).
+4PR is open-source and available under the [MIT License](LICENSE).
 
 ## 📧 Contact Us
 
